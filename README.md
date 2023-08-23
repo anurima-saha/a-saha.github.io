@@ -18,7 +18,9 @@ Following [the Paris Agreement](https://unfccc.int/process-and-meetings/the-pari
 
 ### ***4.BOOK:***
 [Computer Age Statistical Inference:Algorithms, Evidence and Data Science](https://hastie.su.domains/CASI/)
+
 Cambridge University Press
+
 Authrors: Bradley Efron & Trevor Hastie
 ###### ***POINT OF INTEREST***
 To be a "data scientist" in the true sense of the term, it is of primary importance to be a skilled statistican besides being an adept coder. This book provides an all-encompassing idea of statistics going back to roots starting with classical inferential theories(Bayesian, frequentist, Fisherian). Getting the foundation right is absolutely necessary to understand more complex concepts like random forest or neural network, which is also covered by this book. Through this text we can time travel through the development of data science to what it is today, meanwhile integrating " methodology and algorithms with statistical inference". Last but not least, this book tries to provide an overview of what the future might look like for statistics and data science, which makes it an even more intersting read.
