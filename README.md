@@ -6,7 +6,7 @@ URL and describe its potential applications and values.
 4. Introduce ONE selected “free-data-science-book” with its URL and author/institute
 information. Explain briefly why you are interested in this book.
 
-### ***3.DATASET:***
+### ***DATASET:***
 [NASA-Socioeconomic Data and Applications Center (sedac)](https://sedac.ciesin.columbia.edu/)
 ###### ***APPLICATION & VALUE***
 The data collection in this NASA website looks something like this:
@@ -16,7 +16,7 @@ We can see a wide collection ranging from population to food supply, from enviro
 Following [the Paris Agreement](https://unfccc.int/process-and-meetings/the-paris-agreement) by United Nations this field has become the focus for countries and industries alike, with major implications especially for finance and tech industries. So, for a person like me who is motivated to work on "Business Risk and Climate Analysis" this data holds a lot of significance.
 
 
-### ***4.BOOK:***
+### ***BOOK:***
 [Computer Age Statistical Inference:Algorithms, Evidence and Data Science](https://hastie.su.domains/CASI/)
 
 Cambridge University Press
